@@ -1,4 +1,6 @@
 # Multiplication
+[![GitHub license](https://img.shields.io/github/license/jlmelville/multiplication.svg)](https://github.com/jlmelville/multiplication/blob/master/LICENSE)
+
 Multiplication is an alternative to the
 [application Gradle plugin](https://docs.gradle.org/current/userguide/application_plugin.html)
 that allows a project to have multiple command-line executable JVM
